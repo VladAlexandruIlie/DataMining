@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DataMine:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="548225d9-be5c-474c-ae46-24982b5fe3b6" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Data_Mining_Project$AprioriTest.coverage" NAME="AprioriTest Coverage Results" MODIFIED="1522154113729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Data Mining Project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1340#1351#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Apriori.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/patterns/Apriori.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding>
+                <element signature="method#generateFrequentItemSetsLevel1#0;class#Apriori#0" expanded="false" />
+                <element signature="method#joinSets#0;class#Apriori#0" expanded="false" />
+                <element signature="method#joinable#0;class#Apriori#0" expanded="false" />
+                <element signature="method#found#0;class#Apriori#0" expanded="false" />
+                <element signature="method#countSupport#0;class#Apriori#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KMeans.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kMean/KMeans.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding>
+                <element signature="method#printData#0;class#KMeans#0" expanded="false" />
+                <element signature="method#updateClusters#0;class#KMeans#0" expanded="false" />
+                <element signature="method#createKEmptyClusters#0;class#KMeans#0" expanded="false" />
+                <element signature="method#getKRandomCluster#0;class#KMeans#0" expanded="false" />
+                <element signature="method#getLabels#0;class#KMeans#0" expanded="false" />
+                <element signature="method#stopCondition#0;class#KMeans#0" expanded="false" />
+                <element signature="method#sameClusterLists#0;class#KMeans#0" expanded="false" />
+                <element signature="method#printClusters#0;class#KMeans#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KMeanCluster.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kMean/KMeanCluster.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="65" column="31" lean-forward="false" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+              <folding>
+                <element signature="method#KMeanCluster#0;class#KMeanCluster#0" expanded="false" />
+                <element signature="method#add#0;class#KMeanCluster#0" expanded="false" />
+                <element signature="method#centerPoint#0;class#KMeanCluster#0" expanded="false" />
+                <element signature="method#distance#0;class#KMeanCluster#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/DataLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1197">
+              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="74" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataPoint.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kMean/DataPoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="method#DataPoint#0;class#DataPoint#0" expanded="false" />
+                <element signature="method#toString#0;class#DataPoint#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KNearestNeighbors.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Knn/KNearestNeighbors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="49" />
+              <folding>
+                <element signature="method#getNeighbors#0;class#KNearestNeighbors#0" expanded="false" />
+                <element signature="method#distance#0;class#KNearestNeighbors#0" expanded="false" />
+                <element signature="method#getResponses#0;class#KNearestNeighbors#0" expanded="false" />
+                <element signature="method#getAccuracy#0;class#KNearestNeighbors#0" expanded="false" />
+                <element signature="method#printNeighbors#0;class#KNearestNeighbors#0" expanded="false" />
+                <element signature="method#printAverageAccuracy#0;class#KNearestNeighbors#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KNNData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Knn/KNNData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <folding>
+                <element signature="method#KNNData#0;class#KNNData#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PreProcessing/DataRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1659">
+              <caret line="405" column="5" lean-forward="false" selection-start-line="405" selection-start-column="5" selection-end-line="405" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#cleanData#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#findHigh#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#findLow#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#MinMaxNormalize#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getAllAges#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getCleanedAges#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getNormalizedAges#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getAllDegrees#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getAllGamesPlayed#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getNumberOfGamesPlayed#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getNormalizedNoGamesPlayed#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getAllInterestsScores#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getNormalizedScoresMatrix#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getSummedInterestsScore#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getNormalizedTotalInterestScore#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getKMeanData#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getKNNData#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getTestData#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#getTrainingData#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#printAllAges#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#printNormalizedAges#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#printDegrees#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#printGamesPlayed#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#printNumberOfGamesPlayed#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#printNormalizedNoOfGamesPlayed#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#printRawInterestData#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#printInterestsScores#0;class#DataRepository#0" expanded="false" />
+                <element signature="e#15941#15969#0" expanded="false" />
+                <element signature="method#printNormalizedScoreMatrix#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#printSummedScores#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#printNormalizedTotalScores#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#printKnnData#0;class#DataRepository#0" expanded="false" />
+                <element signature="method#printPredictions#0;class#DataRepository#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemSet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/patterns/ItemSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="docComment;class#ItemSet#0" expanded="false" />
+                <element signature="docComment;field#PRIMES#0;class#ItemSet#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Angry Birds</find>
+      <find>3, 4, 3, 2, 4, 3, 4, 4, 4, 4, 2</find>
+      <find>3, 4, 3, 3, 2, 4, 2, 3, 4, 3, 3</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/DegreeClass.java" />
+        <option value="$PROJECT_DIR$/kMedoid/KMedoidCluster.java" />
+        <option value="$PROJECT_DIR$/kMedoid/KMedoid.java" />
+        <option value="$PROJECT_DIR$/data/Answers.java" />
+        <option value="$PROJECT_DIR$/PreProcessing/Answers.java" />
+        <option value="$PROJECT_DIR$/data/CSVFileReader.java" />
+        <option value="$PROJECT_DIR$/Test-src/AprioriTest.java" />
+        <option value="$PROJECT_DIR$/Test-src/patterns/AprioriTest.java" />
+        <option value="$PROJECT_DIR$/Tests/AprioriTest.java" />
+        <option value="$PROJECT_DIR$/Data Mining - Spring 2018.csv" />
+        <option value="$PROJECT_DIR$/data/Normalizer.java" />
+        <option value="$PROJECT_DIR$/data/DataLoader.java" />
+        <option value="$PROJECT_DIR$/kMean/dataPoint.java" />
+        <option value="$PROJECT_DIR$/kMean/DataCleaner.java" />
+        <option value="$PROJECT_DIR$/kMean/KMeanCluster.java" />
+        <option value="$PROJECT_DIR$/data/SurveyAnswer.java" />
+        <option value="$PROJECT_DIR$/kMean/KMeans.java" />
+        <option value="$PROJECT_DIR$/Knn/KNNData.java" />
+        <option value="$PROJECT_DIR$/Knn/KNearestNeighbors.java" />
+        <option value="$PROJECT_DIR$/kMean/KMeansTest.java" />
+        <option value="$PROJECT_DIR$/patterns/AprioriTest.java" />
+        <option value="$PROJECT_DIR$/Knn/KNearestNeighborsTest.java" />
+        <option value="$PROJECT_DIR$/patterns/ItemSet.java" />
+        <option value="$PROJECT_DIR$/patterns/Apriori.java" />
+        <option value="$PROJECT_DIR$/PreProcessing/DataRepository.java" />
+        <option value="$PROJECT_DIR$/kMean/DataPoint.java" />
+        <option value="$PROJECT_DIR$/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Data Mining Project" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DataMine" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Data Mining Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Mining Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data Mining Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Mining Project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data Mining Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Mining Project" type="462c0819:PsiDirectoryNode" />
+              <item name="kMean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data Mining Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Mining Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Knn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data Mining Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Mining Project" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data Mining Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Mining Project" type="462c0819:PsiDirectoryNode" />
+              <item name="PreProcessing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="&quot;2018/01/28 12:19:34 PM GMT+1&quot;,&quot;27&quot;,&quot;Male&quot;,&quot;41&quot;,&quot;173.7&quot;,&quot;SDT-SE&quot;" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Datamining Labs/Lab 4" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Knn" />
+      <recent name="kMean" />
+      <recent name="patterns" />
+      <recent name="Tests" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\iliev\Desktop\Data Mining Project\patterns" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iliev\Desktop\Data Mining Project\Test-src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Apriori" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="patterns.Apriori" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DataMine" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DataMine" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="AprioriTest " type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="DataMine" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="patterns" />
+      <option name="MAIN_CLASS_NAME" value="patterns.AprioriTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/patterns" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="KMeansTest.KMeansPartition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="kMean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="DataMine" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="kMean" />
+      <option name="MAIN_CLASS_NAME" value="kMean.KMeansTest" />
+      <option name="METHOD_NAME" value="KMeansPartition" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="KNearestNeighborsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Knn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="DataMine" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Knn" />
+      <option name="MAIN_CLASS_NAME" value="Knn.KNearestNeighborsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="KNearestNeighborsTest.predict" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Knn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="DataMine" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Knn" />
+      <option name="MAIN_CLASS_NAME" value="Knn.KNearestNeighborsTest" />
+      <option name="METHOD_NAME" value="predict" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.Apriori" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.AprioriTest " />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.KMeansTest.KMeansPartition" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.KNearestNeighborsTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.KNearestNeighborsTest.predict" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.KNearestNeighborsTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.KNearestNeighborsTest.predict" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AprioriTest " />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.KMeansTest.KMeansPartition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="548225d9-be5c-474c-ae46-24982b5fe3b6" name="Default" comment="" />
+      <created>1520707548744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520707548744</updated>
+      <workItem from="1520707551313" duration="20271000" />
+      <workItem from="1521383101311" duration="13000" />
+      <workItem from="1521387623792" duration="1000" />
+      <workItem from="1521387712467" duration="11179000" />
+      <workItem from="1521896036378" duration="12584000" />
+      <workItem from="1521919586894" duration="5485000" />
+      <workItem from="1521937450982" duration="2423000" />
+      <workItem from="1521979291752" duration="1229000" />
+      <workItem from="1522077363319" duration="16464000" />
+      <workItem from="1522145519784" duration="9542000" />
+      <workItem from="1522155105656" duration="25071000" />
+      <workItem from="1522240635779" duration="5932000" />
+      <workItem from="1522269394741" duration="19087000" />
+      <workItem from="1522317326431" duration="25161000" />
+      <workItem from="1522410241060" duration="25464000" />
+      <workItem from="1522496673441" duration="23282000" />
+      <workItem from="1522666728076" duration="10461000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="KNearestNeighborsTest - 2018.03.31 at 23h 42m 40s.xml">
+      <configuration name="KNearestNeighborsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KNearestNeighborsTest - 2018.03.31 at 23h 42m 59s.xml">
+      <configuration name="KNearestNeighborsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KNearestNeighborsTest - 2018.03.31 at 23h 43m 03s.xml">
+      <configuration name="KNearestNeighborsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KNearestNeighborsTest - 2018.03.31 at 23h 43m 05s.xml">
+      <configuration name="KNearestNeighborsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KNearestNeighborsTest - 2018.03.31 at 23h 43m 08s.xml">
+      <configuration name="KNearestNeighborsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KNearestNeighborsTest - 2018.03.31 at 23h 43m 10s.xml">
+      <configuration name="KNearestNeighborsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KNearestNeighborsTest - 2018.03.31 at 23h 43m 12s.xml">
+      <configuration name="KNearestNeighborsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KNearestNeighborsTest - 2018.03.31 at 23h 43m 34s.xml">
+      <configuration name="KNearestNeighborsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KNearestNeighborsTest - 2018.03.31 at 23h 44m 11s.xml">
+      <configuration name="KNearestNeighborsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KNearestNeighborsTest - 2018.04.02 at 13h 02m 43s.xml">
+      <configuration name="KNearestNeighborsTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="213649000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34497353" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.91216934" sideWeight="0.50625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.83915347" sideWeight="0.49375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1890625" sideWeight="0.49483013" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12447917" sideWeight="0.50516987" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49583334" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16927083" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.91216934" sideWeight="0.50625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49583334" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34497353" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17037037" sideWeight="0.49375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16927083" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.110416666" sideWeight="0.49483013" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12447917" sideWeight="0.50516987" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="36" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Data Mining - Spring 2018.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1340#1351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1340#1351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1340#1351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 4.iml" />
+    <entry file="file://$PROJECT_DIR$/DataMine.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IrisClass.java" />
+    <entry file="file://$PROJECT_DIR$/data/DegreeClass.java" />
+    <entry file="file://$PROJECT_DIR$/data/Iris.java" />
+    <entry file="file://$PROJECT_DIR$/kMedoid/KMedoidCluster.java" />
+    <entry file="file://$PROJECT_DIR$/kMedoid/KMedoid.java" />
+    <entry file="file://$PROJECT_DIR$/iris.csv" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="644" column="0" lean-forward="false" selection-start-line="644" selection-start-column="0" selection-end-line="644" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSVFileReader.java" />
+    <entry file="file://$PROJECT_DIR$/../Datamining Labs/Lab 4/data/DataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Datamining Labs/Lab 4/data/CSVFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="49" column="10" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="51" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12884.3071/Apriori.java" />
+    <entry file="file://$PROJECT_DIR$/patterns/gf.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="2800" column="0" lean-forward="false" selection-start-line="2800" selection-start-column="0" selection-end-line="2800" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/SurveyAnswer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test-src/patterns/AprioriTest.java" />
+    <entry file="file://$PROJECT_DIR$/Test-src/asdf" />
+    <entry file="file://$PROJECT_DIR$/Tests/AprioriTest.java" />
+    <entry file="file://$PROJECT_DIR$/../Datamining Labs/Lab 2/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Normalizer.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="387" column="0" lean-forward="false" selection-start-line="387" selection-start-column="0" selection-end-line="387" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Programming Workshop/SPWS17_GroupS-master/src/QueryHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1899">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kMean/DataCleaner.java" />
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/iliev/Desktop/Data Mining Project/kMean">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/kMean</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="804.0" y="446.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="149" column="8" lean-forward="false" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Datamining Labs/Lab 4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Mining - Spring 2018.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="228" lean-forward="false" selection-start-line="2" selection-start-column="212" selection-end-line="2" selection-end-column="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kMean/KMeansTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1533">
+          <caret line="81" column="8" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/iliev/Desktop/Data Mining Project">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="854.0" y="446.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Overview</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Flash/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Flash</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="" />
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="59.0" y="15.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>PRIVATE</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patterns/AprioriTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2756">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knn/KNearestNeighborsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4914">
+          <caret line="239" column="0" lean-forward="false" selection-start-line="239" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#getTestData#0;class#KNearestNeighborsTest#0" expanded="false" />
+            <element signature="method#getTrainingData#0;class#KNearestNeighborsTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="353.0" y="9.451171875">data</node>
+            <node x="30.0" y="9.451171875">patterns</node>
+            <node x="208.0" y="9.451171875">Knn</node>
+            <node x="309.82642857142855" y="169.451171875">PreProcessing</node>
+            <node x="522.0" y="9.451171875">kMean</node>
+            <node x="313.3571428571429" y="259.451171875">Main</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Knn" target="PreProcessing">
+              <point x="40.71428571428575" y="15.0" />
+              <point x="296.2142857142858" y="109.451171875" />
+              <point x="372.82642857142855" y="109.451171875" />
+              <point x="-8.999999999999972" y="-15.0" />
+            </edge>
+            <edge source="Main" target="kMean">
+              <point x="30.0" y="-15.0" />
+              <point x="379.3571428571429" y="239.451171875" />
+              <point x="582.3835714285715" y="239.451171875" />
+              <point x="582.3835714285715" y="149.451171875" />
+              <point x="622.2857142857143" y="149.451171875" />
+              <point x="46.285714285714334" y="15.0" />
+            </edge>
+            <edge source="Knn" target="Knn">
+              <point x="-27.14285714285714" y="15.0" />
+              <point x="228.35714285714286" y="69.451171875" />
+              <point x="178.0" y="69.451171875" />
+              <point x="178.0" y="24.451171875" />
+              <point x="-47.5" y="-0.0" />
+            </edge>
+            <edge source="PreProcessing" target="patterns">
+              <point x="-62.99999999999997" y="-15.0" />
+              <point x="318.82642857142855" y="139.451171875" />
+              <point x="133.25" y="139.451171875" />
+              <point x="44.25" y="15.0" />
+            </edge>
+            <edge source="Main" target="patterns">
+              <point x="-30.0" y="-15.0" />
+              <point x="319.3571428571429" y="239.451171875" />
+              <point x="103.75" y="239.451171875" />
+              <point x="14.75" y="15.0" />
+            </edge>
+            <edge source="PreProcessing" target="data">
+              <point x="27.00000000000003" y="-15.0" />
+              <point x="408.82642857142855" y="119.451171875" />
+              <point x="422.3" y="119.451171875" />
+              <point x="19.799999999999997" y="15.0" />
+            </edge>
+            <edge source="Main" target="data">
+              <point x="18.0" y="-15.0" />
+              <point x="367.3571428571429" y="229.451171875" />
+              <point x="464.32642857142855" y="229.451171875" />
+              <point x="464.32642857142855" y="119.451171875" />
+              <point x="442.1" y="119.451171875" />
+              <point x="39.599999999999994" y="15.0" />
+            </edge>
+            <edge source="kMean" target="kMean">
+              <point x="-15.428571428571416" y="15.0" />
+              <point x="560.5714285714286" y="79.451171875" />
+              <point x="482.0" y="79.451171875" />
+              <point x="482.0" y="20.701171875" />
+              <point x="-54.0" y="-3.75" />
+            </edge>
+            <edge source="patterns" target="patterns">
+              <point x="-44.25" y="15.0" />
+              <point x="44.75" y="59.451171875" />
+              <point x="10.0" y="59.451171875" />
+              <point x="10.0" y="31.951171875" />
+              <point x="-59.0" y="7.5" />
+            </edge>
+            <edge source="PreProcessing" target="Knn">
+              <point x="-26.99999999999997" y="-15.0" />
+              <point x="354.82642857142855" y="119.451171875" />
+              <point x="282.6428571428571" y="119.451171875" />
+              <point x="27.14285714285714" y="15.0" />
+            </edge>
+            <edge source="PreProcessing" target="kMean">
+              <point x="45.00000000000003" y="-15.0" />
+              <point x="426.82642857142855" y="129.451171875" />
+              <point x="591.4285714285714" y="129.451171875" />
+              <point x="15.428571428571416" y="15.0" />
+            </edge>
+            <edge source="Main" target="PreProcessing">
+              <point x="6.0" y="-15.0" />
+              <point x="355.3571428571429" y="219.451171875" />
+              <point x="417.82642857142855" y="219.451171875" />
+              <point x="36.00000000000003" y="15.0" />
+            </edge>
+            <edge source="Main" target="Knn">
+              <point x="-18.0" y="-15.0" />
+              <point x="331.3571428571429" y="229.451171875" />
+              <point x="239.10714285714286" y="229.451171875" />
+              <point x="239.10714285714286" y="149.451171875" />
+              <point x="255.5" y="149.451171875" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="data" target="data">
+              <point x="-39.6" y="15.0" />
+              <point x="362.9" y="59.451171875" />
+              <point x="333.0" y="59.451171875" />
+              <point x="333.0" y="31.951171875" />
+              <point x="-49.5" y="7.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-223.5" y="-61.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/SurveyAnswer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3066">
+          <caret line="152" column="0" lean-forward="true" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/CSVFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/DataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="74" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PreProcessing/DataRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1659">
+          <caret line="405" column="5" lean-forward="false" selection-start-line="405" selection-start-column="5" selection-end-line="405" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#cleanData#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#findHigh#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#findLow#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#MinMaxNormalize#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getAllAges#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getCleanedAges#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getNormalizedAges#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getAllDegrees#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getAllGamesPlayed#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getNumberOfGamesPlayed#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getNormalizedNoGamesPlayed#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getAllInterestsScores#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getNormalizedScoresMatrix#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getSummedInterestsScore#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getNormalizedTotalInterestScore#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getKMeanData#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getKNNData#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getTestData#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#getTrainingData#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#printAllAges#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#printNormalizedAges#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#printDegrees#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#printGamesPlayed#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#printNumberOfGamesPlayed#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#printNormalizedNoOfGamesPlayed#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#printRawInterestData#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#printInterestsScores#0;class#DataRepository#0" expanded="false" />
+            <element signature="e#15941#15969#0" expanded="false" />
+            <element signature="method#printNormalizedScoreMatrix#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#printSummedScores#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#printNormalizedTotalScores#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#printKnnData#0;class#DataRepository#0" expanded="false" />
+            <element signature="method#printPredictions#0;class#DataRepository#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patterns/Apriori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="method#generateFrequentItemSetsLevel1#0;class#Apriori#0" expanded="false" />
+            <element signature="method#joinSets#0;class#Apriori#0" expanded="false" />
+            <element signature="method#joinable#0;class#Apriori#0" expanded="false" />
+            <element signature="method#found#0;class#Apriori#0" expanded="false" />
+            <element signature="method#countSupport#0;class#Apriori#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patterns/ItemSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="docComment;class#ItemSet#0" expanded="false" />
+            <element signature="docComment;field#PRIMES#0;class#ItemSet#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kMean/DataPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="method#DataPoint#0;class#DataPoint#0" expanded="false" />
+            <element signature="method#toString#0;class#DataPoint#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kMean/KMeanCluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="65" column="31" lean-forward="false" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+          <folding>
+            <element signature="method#KMeanCluster#0;class#KMeanCluster#0" expanded="false" />
+            <element signature="method#add#0;class#KMeanCluster#0" expanded="false" />
+            <element signature="method#centerPoint#0;class#KMeanCluster#0" expanded="false" />
+            <element signature="method#distance#0;class#KMeanCluster#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kMean/KMeans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="method#printData#0;class#KMeans#0" expanded="false" />
+            <element signature="method#updateClusters#0;class#KMeans#0" expanded="false" />
+            <element signature="method#createKEmptyClusters#0;class#KMeans#0" expanded="false" />
+            <element signature="method#getKRandomCluster#0;class#KMeans#0" expanded="false" />
+            <element signature="method#getLabels#0;class#KMeans#0" expanded="false" />
+            <element signature="method#stopCondition#0;class#KMeans#0" expanded="false" />
+            <element signature="method#sameClusterLists#0;class#KMeans#0" expanded="false" />
+            <element signature="method#printClusters#0;class#KMeans#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knn/KNNData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="method#KNNData#0;class#KNNData#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knn/KNearestNeighbors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <element signature="method#getNeighbors#0;class#KNearestNeighbors#0" expanded="false" />
+            <element signature="method#distance#0;class#KNearestNeighbors#0" expanded="false" />
+            <element signature="method#getResponses#0;class#KNearestNeighbors#0" expanded="false" />
+            <element signature="method#getAccuracy#0;class#KNearestNeighbors#0" expanded="false" />
+            <element signature="method#printNeighbors#0;class#KNearestNeighbors#0" expanded="false" />
+            <element signature="method#printAverageAccuracy#0;class#KNearestNeighbors#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1340#1351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <last-edited>Manual container configuration|Manual</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>DataMine:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DataMine</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Arquillian JUnit:Release</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
